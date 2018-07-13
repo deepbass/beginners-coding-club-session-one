@@ -1,0 +1,13 @@
+.body {
+    margin: 0;
+    text-align: center;
+}
+.heading_section {
+    background-color: rgb(201, 226, 243);
+}
+.heading_section p {
+    padding-bottom: 20;
+}
+.heading_section h1 {
+    padding-top: 5;
+}
