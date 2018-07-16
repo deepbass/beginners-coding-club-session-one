@@ -2,12 +2,25 @@
     margin: 0;
     text-align: center;
 }
-.heading_section {
+#heading_section {
     background-color: rgb(201, 226, 243);
 }
-.heading_section p {
-    padding-bottom: 20;
+#heading_section p {
+    padding-bottom: 5em;
 }
-.heading_section h1 {
-    padding-top: 5;
+#heading_section h1 {
+    padding-top: 2em;
+}
+
+.tile_container {
+    padding-left: 3em;
+    padding-right:3em;
+}
+
+.tile {
+    position: relative;
+    margin-top:1em;
+    border-style: solid;
+    box-shadow: 2 3 4 5 black;
+    padding: 1em;
 }
